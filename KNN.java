@@ -1,6 +1,4 @@
-/* Student name:     Souhail Daoudi
- * Student number:    300135458
-*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.PriorityQueue;
