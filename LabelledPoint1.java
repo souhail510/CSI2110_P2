@@ -1,6 +1,4 @@
-/* Student name:     Souhail Daoudi
- * Student number:    300135458
-*/
+
 
 class LabelledPoint implements Comparable<LabelledPoint> {
     private Float[] vector;   // the vector
